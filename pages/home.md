@@ -1,19 +1,19 @@
 ---
 layout: home
 permalink: "/"
-title: "Jekyll Advance"
+title: "Distributed Witness"
 description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
 header_transparent: true
-meta_title: Jekyll Advance - Premium Jekyll Theme
+meta_title: Distributed Witness Homepage
 
 hero:
   enabled: true
-  heading: "Jekyll Advance"
-  sub_heading: "Built using highly configurable sections, Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+  heading: "Know People and Data are Authentic"
+  sub_heading: "Make Better Decisions Knowing What is Genuine."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
-  background_image: "/assets/images/gen/home/home-1-large.webp"
+  background_image: "/assets/images/gen/home/hacker-1920x1080.jpg"
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: false
@@ -50,7 +50,7 @@ intro:
   enabled: true
   align: left
   image: "/assets/images/gen/content/content-5-thumbnail.webp"
-  heading: "We've helped hundreds of people grow their business online."
+  heading: "Distributed Witness disabuses deception in an online world."
   sub_heading: "Our software empowers customers and retailers to work from anywhere in the world, on the go, or at home."
   features:
     enabled: false

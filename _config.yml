@@ -125,10 +125,10 @@ fonts:
 
 logo:
   logo_text: "Distributed Witness"
-  logo_image: assets/images/logo/dwlogo.png
-  logo_image_mobile: assets/images/logo/dwlogo-mobile.png
-  logo_image_invert: assets/images/logo/dwlogo-invert.png
-  logo_image_invert_mobile: assets/images/logo/dwlogo-invert-mobile.png
+  logo_image: assets/images/logo/dwlogo.svg
+  logo_image_mobile: assets/images/logo/dwlogo-mobile.svg
+  logo_image_invert: assets/images/logo/dwlogo-invert.svg
+  logo_image_invert_mobile: assets/images/logo/dwlogo-invert-mobile.svg
   logo_image_desktop_height: "30px"
   logo_image_desktop_width: "323px"
   logo_image_mobile_height: "30px"
@@ -201,7 +201,7 @@ footer:
 bottom:
   enable_bottom: true # show/hide the entire bottom (below the footer)
   enable_bottom_menu: true # if enabled, the bottom menu can be edited in `_data/menu.yml`
-  copyright_text: "© 2023 Zerostatic Themes"
+  copyright_text: "© 2024 Distributed Witness"
   show_rss_icon: true
 
 sidebar:
