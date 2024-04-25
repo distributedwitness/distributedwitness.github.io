@@ -43,7 +43,7 @@ footer_tertiary:
   - name: Terms and Conditions
     url: /terms-and-conditions/
     weight: 2
-  - name: Buy Now
+  - name: Get Started
     url: https://www.zerostatic.io/theme/jekyll-advance/
     weight: 3
 bottom:

@@ -51,7 +51,7 @@ intro:
   align: left
   image: "/assets/images/gen/content/biometrics-woman-fotor-1240x698.png"
   heading: "Distributed Witness disabuses deception in an online world."
-  sub_heading: "Our software empowers customers and retailers to work from anywhere in the world, on the go, or at home."
+  sub_heading: "Experience the forefront of security with Distributed Witness, your dedicated partner in safeguarding digital media integrity. Specializing in advanced deepfake detection software, we empower organizations to defend against digital impersonation and media manipulation."
   features:
     enabled: false
     list:
@@ -94,8 +94,8 @@ outro:
   enabled: true
   align: center
   image: false
-  heading: Get Started Today
-  sub_heading: "Save time and money using this premium Jekyll theme."
+  heading: Get Peace-of-Mind in a Data-Driven-World
+  sub_heading: "Don't let deep-fake and identity mismanagment technologies compromise you and your organization."
   features:
     enabled: false
     list:
