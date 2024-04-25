@@ -49,7 +49,7 @@ services:
 intro:
   enabled: true
   align: left
-  image: "/assets/images/gen/content/content-5-thumbnail.webp"
+  image: "/assets/images/gen/content/biometrics-woman-fotor-1240x698.png"
   heading: "Distributed Witness disabuses deception in an online world."
   sub_heading: "Our software empowers customers and retailers to work from anywhere in the world, on the go, or at home."
   features:
@@ -80,7 +80,7 @@ partners:
   sort: "weight" # 'date'
 
 projects:
-  enabled: true
+  enabled: false
   heading: "Our Projects"
   sub_heading: ""
   limit: 2
