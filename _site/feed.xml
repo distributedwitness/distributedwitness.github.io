@@ -5,857 +5,347 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Apr 2024 07:20:55 -0400</pubDate>
-    <lastBuildDate>Fri, 26 Apr 2024 07:20:55 -0400</lastBuildDate>
+    <pubDate>Fri, 26 Apr 2024 15:49:49 -0400</pubDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:49:49 -0400</lastBuildDate>
     <generator>Jekyll v4.3.2</generator>
     
       <item>
-        <title>Improving page speed</title>
-        <description>&lt;p&gt;Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.&lt;/p&gt;
+        <title>Understanding the Technical Aspects of Deep Fakes: A Guide for Educators</title>
+        <description>&lt;p&gt;In today’s digital age, educators are tasked not only with teaching traditional subjects but also with navigating complex technological landscapes. One such area of concern is deep fake technology, which has significant implications for education. In this blog post, we’ll delve into the technical aspects of deep fakes and provide educators with a comprehensive guide to understanding and addressing this phenomenon in educational settings.&lt;/p&gt;
 
-&lt;p&gt;Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.&lt;/p&gt;
+&lt;h2 id=&quot;what-are-deep-fakes&quot;&gt;What Are Deep Fakes?&lt;/h2&gt;
 
-&lt;h2 id=&quot;history&quot;&gt;History&lt;/h2&gt;
+&lt;p&gt;Deep fakes are synthetic media generated using artificial intelligence (AI) techniques, particularly deep learning algorithms. These algorithms analyze and synthesize vast amounts of data to create highly realistic videos, images, or audio recordings that can convincingly mimic real people and events. The term “deep fake” originates from the deep learning technology used to produce these manipulations.&lt;/p&gt;
 
-&lt;p&gt;John Gruber created the &lt;a href=&quot;#&quot;&gt;Markdown&lt;/a&gt; language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people “to write using an easy-to-read and easy-to-write plain text format”. Its key design goal is readability. That the language be readable as-is.&lt;/p&gt;
+&lt;h2 id=&quot;technical-components-of-deep-fakes&quot;&gt;Technical Components of Deep Fakes&lt;/h2&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;“Markdown is a lightweight markup language with plain-text-formatting syntax”&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;To understand deep fakes from a technical standpoint, it’s essential to grasp the key components involved:&lt;/p&gt;
 
-&lt;p&gt;To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Deep Learning Algorithms&lt;/strong&gt;: Deep fakes rely on sophisticated deep learning algorithms, such as convolutional neural networks (CNNs) and generative adversarial networks (GANs). These algorithms learn from large datasets of real media to generate plausible synthetic content.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Facial Recognition and Mapping&lt;/strong&gt;: Deep fake algorithms analyze facial features, expressions, and movements using facial recognition technology. They map these features onto a target face, enabling realistic facial swaps or manipulations.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Audio Synthesis&lt;/strong&gt;: In addition to visual content, deep fakes can synthesize realistic audio using techniques like text-to-speech algorithms or voice cloning technology. This allows for the creation of fake audio recordings that sound like real individuals.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Image and Video Processing&lt;/strong&gt;: Deep fake algorithms process and manipulate images or video frames to seamlessly blend synthetic elements with existing content. Techniques like frame interpolation and image blending contribute to the realism of deep fakes.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h2 id=&quot;markdown-flavours&quot;&gt;Markdown Flavours&lt;/h2&gt;
+&lt;h2 id=&quot;implications-for-education&quot;&gt;Implications for Education&lt;/h2&gt;
 
-&lt;p&gt;From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to “document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations”.&lt;/p&gt;
+&lt;p&gt;The technical sophistication of deep fakes raises several implications for education:&lt;/p&gt;
 
-&lt;figure&gt;
-  &lt;a href=&quot;https://figma.com&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
-  &lt;/a&gt;
-  &lt;figcaption&gt;
-    &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
-    &lt;p&gt;VSCode Editor&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Misinformation&lt;/strong&gt;: Deep fakes can be used to create and spread misinformation, posing challenges for educators in verifying the authenticity of educational content.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Identity Impersonation&lt;/strong&gt;: Students or external actors may use deep fakes to impersonate teachers, classmates, or school officials, leading to identity-related issues and trust concerns.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Media Literacy Education&lt;/strong&gt;: Educators must teach students about the technical aspects of deep fakes and how to critically evaluate digital content to combat misinformation.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h3 id=&quot;github-flavored-markdown-gfm&quot;&gt;GitHub Flavored Markdown (GFM)&lt;/h3&gt;
+&lt;h2 id=&quot;addressing-deep-fakes-in-education&quot;&gt;Addressing Deep Fakes in Education&lt;/h2&gt;
 
-&lt;p&gt;In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.he user to create their own.&lt;/p&gt;
+&lt;p&gt;To address the challenges posed by deep fakes, educators can take proactive measures:&lt;/p&gt;
 
-&lt;figure&gt;
-  &lt;a href=&quot;https://figma.com&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
-  &lt;/a&gt;
-  &lt;figcaption&gt;
-    &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
-    &lt;p&gt;VSCode Editor&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Media Literacy Curriculum&lt;/strong&gt;: Integrate media literacy education into the curriculum, teaching students about deep fake technology, its technical components, and how to discern authentic content from manipulated media.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Ethical Discussions&lt;/strong&gt;: Facilitate discussions about the ethical implications of deep fakes, privacy concerns, and responsible digital behavior in the context of media creation and consumption.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Detection Tools and Training&lt;/strong&gt;: Familiarize teachers with deep fake detection tools and techniques, enabling them to identify potential instances of manipulation and take appropriate action.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h3 id=&quot;markdown-extra&quot;&gt;Markdown Extra&lt;/h3&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
 
-&lt;p&gt;Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), &lt;a href=&quot;#&quot;&gt;Python&lt;/a&gt; and &lt;a href=&quot;#&quot;&gt;Ruby&lt;/a&gt;. It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal.&lt;/p&gt;
-
-&lt;h3 id=&quot;mdx&quot;&gt;MDX&lt;/h3&gt;
-
-&lt;p&gt;At the same time, a number of ambiguities in the informal specification had attracted attention.These issues spurred the creation of tools such as Babelmark to compare the output of various implementations, and an effort by some developers of Markdown parsers for standardisation. However, Gruber has argued that complete standardization would be a mistake:&lt;/p&gt;
-
-&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;function &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;c1&quot;&gt;// this will work when your window scrolled.&lt;/span&gt;
-  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-  &lt;span class=&quot;nf&quot;&gt;if &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.header&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;addClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;header-scrolled&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.header&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;removeClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;header-scrolled&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Gruber avoided using curly braces in Markdown to unofficially reserve them for implementation-specific extensions. Markdown Extra adds the following features to Markdown:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;markdown markup inside HTML blocks&lt;/li&gt;
-  &lt;li&gt;elements with id/class attribute&lt;/li&gt;
-  &lt;li&gt;fenced code blocks that span multiple lines of code&lt;/li&gt;
-  &lt;li&gt;tables&lt;/li&gt;
-  &lt;li&gt;definition lists&lt;/li&gt;
-  &lt;li&gt;footnotes&lt;/li&gt;
-  &lt;li&gt;abbreviations&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Understanding the technical aspects of deep fakes is crucial for educators to navigate the challenges and opportunities presented by this technology. By staying informed, incorporating media literacy education, and leveraging detection tools, teachers can empower students to navigate the digital landscape responsibly and critically evaluate the authenticity of digital content. Deep fakes are a reminder of the evolving nature of technology and the importance of equipping learners with the skills needed to thrive in a digitally interconnected world.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 13 Feb 2022 04:49:03 -0500</pubDate>
-        <link>http://localhost:4000/blog/2022-02-13-improving-page-speed/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2022-02-13-improving-page-speed/</guid>
+        <pubDate>Mon, 01 Apr 2024 01:22:42 -0400</pubDate>
+        <link>http://localhost:4000/blog/2024-04-01-understanding-the-technical-aspects-of-deep-fakes-a-guide-for-educators/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2024-04-01-understanding-the-technical-aspects-of-deep-fakes-a-guide-for-educators/</guid>
         
         
-        <category>Seo</category>
+        <category>Deepfake</category>
         
-        <category>Development</category>
+        <category>Security</category>
+        
+        <category>Cybersecurity</category>
+        
+        <category>Education</category>
+        
+        <category>Educators</category>
+        
+        <category>Technical</category>
         
       </item>
     
       <item>
-        <title>Ideas to help your business grow</title>
-        <description>&lt;p&gt;Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.&lt;/p&gt;
+        <title>Navigating the Impact of Deep Fakes on Education: Challenges and Opportunities</title>
+        <description>&lt;p&gt;In the ever-evolving landscape of technology, deep fakes have emerged as a double-edged sword, presenting both challenges and opportunities for education. Deep fakes, which use artificial intelligence to create highly realistic manipulated videos or images, have the potential to significantly impact how we teach, learn, and interact in educational settings. In this blog post, we’ll delve into the various ways deep fakes are influencing education and explore strategies for navigating their impact responsibly.&lt;/p&gt;
 
-&lt;p&gt;Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.&lt;/p&gt;
+&lt;h2 id=&quot;the-rise-of-deep-fakes-in-education&quot;&gt;The Rise of Deep Fakes in Education&lt;/h2&gt;
 
-&lt;h2 id=&quot;history&quot;&gt;History&lt;/h2&gt;
+&lt;p&gt;Deep fakes have gained prominence in recent years, thanks to advances in AI and machine learning algorithms. While initially associated with media and entertainment, their implications for education are becoming increasingly apparent. From creating lifelike historical reenactments to simulating immersive learning experiences, deep fakes offer a range of possibilities for educators and learners alike.&lt;/p&gt;
 
-&lt;p&gt;John Gruber created the &lt;a href=&quot;#&quot;&gt;Markdown&lt;/a&gt; language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people “to write using an easy-to-read and easy-to-write plain text format”. Its key design goal is readability. That the language be readable as-is.&lt;/p&gt;
+&lt;h2 id=&quot;challenges-posed-by-deep-fakes&quot;&gt;Challenges Posed by Deep Fakes&lt;/h2&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;“Markdown is a lightweight markup language with plain-text-formatting syntax”&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;However, along with these opportunities come significant challenges that educators must address:&lt;/p&gt;
 
-&lt;p&gt;To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Misinformation and Trust&lt;/strong&gt;: Perhaps the most pressing concern is the potential for deep fakes to spread misinformation. Fabricated educational content, if not properly identified, can erode trust in academic materials and sources.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Ethical Dilemmas&lt;/strong&gt;: The ethical implications of using deep fakes in education are complex. Issues of consent, privacy, and academic integrity arise when considering their use in online learning environments or impersonating individuals.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Media Literacy&lt;/strong&gt;: Deep fakes underscore the importance of media literacy education. Students must develop critical thinking skills to discern between authentic and manipulated content, enhancing their ability to navigate the digital landscape responsibly.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Security and Authentication&lt;/strong&gt;: Educational institutions need robust security measures to detect and prevent the misuse of deep fake technology. This includes verifying the authenticity of educational content and ensuring the integrity of assessments and certifications.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h2 id=&quot;markdown-flavours&quot;&gt;Markdown Flavours&lt;/h2&gt;
+&lt;h2 id=&quot;opportunities-for-innovation&quot;&gt;Opportunities for Innovation&lt;/h2&gt;
 
-&lt;p&gt;From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to “document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations”.&lt;/p&gt;
+&lt;p&gt;Despite these challenges, deep fakes also present opportunities for innovation in education:&lt;/p&gt;
 
-&lt;figure&gt;
-  &lt;a href=&quot;https://figma.com&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
-  &lt;/a&gt;
-  &lt;figcaption&gt;
-    &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
-    &lt;p&gt;VSCode Editor&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Engaging Learning Resources&lt;/strong&gt;: Deep fakes can be leveraged to create immersive and engaging learning resources. Historical figures, scientific simulations, and language learning scenarios can come to life, enhancing the educational experience.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Research and Training&lt;/strong&gt;: Deep fake technology can be used for research purposes and in training simulations. From medical training to language acquisition, realistic simulations can provide valuable learning experiences.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Media Production Skills&lt;/strong&gt;: Educators can teach students valuable media production skills by exploring the creation and detection of deep fakes. This fosters digital literacy and empowers students to become discerning consumers of media.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Adapting to Technological Advances&lt;/strong&gt;: Embracing deep fake technology can help educational institutions stay abreast of technological advances and prepare students for the digital future.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h3 id=&quot;github-flavored-markdown-gfm&quot;&gt;GitHub Flavored Markdown (GFM)&lt;/h3&gt;
+&lt;h2 id=&quot;navigating-the-impact-responsibly&quot;&gt;Navigating the Impact Responsibly&lt;/h2&gt;
 
-&lt;p&gt;In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.he user to create their own.&lt;/p&gt;
+&lt;p&gt;To navigate the impact of deep fakes on education responsibly, stakeholders must collaborate and implement the following strategies:&lt;/p&gt;
 
-&lt;figure&gt;
-  &lt;a href=&quot;https://figma.com&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
-  &lt;/a&gt;
-  &lt;figcaption&gt;
-    &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
-    &lt;p&gt;VSCode Editor&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Media Literacy Education&lt;/strong&gt;: Integrate media literacy education into curricula to help students develop critical thinking and digital citizenship skills.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Ethical Guidelines&lt;/strong&gt;: Establish clear ethical guidelines for the use of deep fakes in education, emphasizing consent, privacy, and academic integrity.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Security Measures&lt;/strong&gt;: Invest in robust security measures to detect and prevent the misuse of deep fake technology, safeguarding educational content and assessments.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Collaboration and Dialogue&lt;/strong&gt;: Foster collaboration and dialogue among educators, policymakers, and industry experts to address emerging challenges and best practices.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Innovation and Creativity&lt;/strong&gt;: Encourage innovative uses of deep fake technology that enhance learning experiences while adhering to ethical standards.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h3 id=&quot;markdown-extra&quot;&gt;Markdown Extra&lt;/h3&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
 
-&lt;p&gt;Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), &lt;a href=&quot;#&quot;&gt;Python&lt;/a&gt; and &lt;a href=&quot;#&quot;&gt;Ruby&lt;/a&gt;. It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal.&lt;/p&gt;
-
-&lt;h3 id=&quot;mdx&quot;&gt;MDX&lt;/h3&gt;
-
-&lt;p&gt;At the same time, a number of ambiguities in the informal specification had attracted attention.These issues spurred the creation of tools such as Babelmark to compare the output of various implementations, and an effort by some developers of Markdown parsers for standardisation. However, Gruber has argued that complete standardization would be a mistake:&lt;/p&gt;
-
-&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;function &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;c1&quot;&gt;// this will work when your window scrolled.&lt;/span&gt;
-  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-  &lt;span class=&quot;nf&quot;&gt;if &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.header&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;addClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;header-scrolled&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.header&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;removeClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;header-scrolled&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Gruber avoided using curly braces in Markdown to unofficially reserve them for implementation-specific extensions. Markdown Extra adds the following features to Markdown:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;markdown markup inside HTML blocks&lt;/li&gt;
-  &lt;li&gt;elements with id/class attribute&lt;/li&gt;
-  &lt;li&gt;fenced code blocks that span multiple lines of code&lt;/li&gt;
-  &lt;li&gt;tables&lt;/li&gt;
-  &lt;li&gt;definition lists&lt;/li&gt;
-  &lt;li&gt;footnotes&lt;/li&gt;
-  &lt;li&gt;abbreviations&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Deep fakes are reshaping the educational landscape, presenting both opportunities and challenges. By embracing innovation, promoting media literacy, and implementing ethical guidelines and security measures, we can navigate the impact of deep fakes on education responsibly. As technology continues to evolve, it is essential to adapt our approaches to ensure that deep fakes contribute positively to learning and knowledge dissemination.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Feb 2022 11:49:03 -0500</pubDate>
-        <link>http://localhost:4000/blog/2022-02-10-ideas-to-help-business-grow/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2022-02-10-ideas-to-help-business-grow/</guid>
+        <pubDate>Mon, 04 Mar 2024 05:20:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/2024-03-04-navigating-the-impact-of-deep-fakes-on-education-challenges-and-opportunities/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2024-03-04-navigating-the-impact-of-deep-fakes-on-education-challenges-and-opportunities/</guid>
         
         
-        <category>Branding</category>
+        <category>Deepfake</category>
         
-        <category>Marketing</category>
+        <category>Security</category>
+        
+        <category>Cybersecurity</category>
+        
+        <category>Education</category>
+        
+        <category>Educators</category>
         
       </item>
     
       <item>
-        <title>Building design systems that scale</title>
-        <description>&lt;p&gt;Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.&lt;/p&gt;
+        <title>Unmasking Deep Fakes: A Guide for Educators on Detecting AI-Generated Content</title>
+        <description>&lt;p&gt;In an era where technological advancements blur the lines between reality and fiction, educators face a new challenge: detecting deep fakes. Deep fakes are sophisticated AI-generated content that can mimic real-life scenarios, including videos, audio recordings, and images. As guardians of knowledge and critical thinking, teachers play a crucial role in identifying and addressing the spread of misinformation through deep fakes. In this blog post, we’ll explore strategies and tools that educators can use to detect deep fakes effectively.&lt;/p&gt;
 
-&lt;p&gt;Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.&lt;/p&gt;
+&lt;h2 id=&quot;understanding-deep-fakes&quot;&gt;Understanding Deep Fakes&lt;/h2&gt;
 
-&lt;h2 id=&quot;history&quot;&gt;History&lt;/h2&gt;
+&lt;p&gt;Before diving into detection methods, it’s essential to understand what deep fakes are and how they work. Deep fakes use deep learning algorithms to manipulate or create media content that appears genuine. This technology can be used to alter speeches, create fake news reports, or even fabricate entire conversations.&lt;/p&gt;
 
-&lt;p&gt;John Gruber created the &lt;a href=&quot;#&quot;&gt;Markdown&lt;/a&gt; language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people “to write using an easy-to-read and easy-to-write plain text format”. Its key design goal is readability. That the language be readable as-is.&lt;/p&gt;
+&lt;h2 id=&quot;key-indicators-of-deep-fakes&quot;&gt;Key Indicators of Deep Fakes&lt;/h2&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;“Markdown is a lightweight markup language with plain-text-formatting syntax”&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;While deep fakes can be highly convincing, several telltale signs can help educators identify them:&lt;/p&gt;
 
-&lt;p&gt;To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Inconsistencies in Facial Features&lt;/strong&gt;: Look for unnatural movements or inconsistencies in facial expressions, such as blinking patterns or lip-syncing errors.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Audio Discrepancies&lt;/strong&gt;: Pay attention to discrepancies between audio and visual elements. If the audio doesn’t match the speaker’s mouth movements or tone, it could be a sign of manipulation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Background and Context&lt;/strong&gt;: Examine the background and context of the content. Are there inconsistencies or anomalies that suggest the video or image has been altered?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Quality Discrepancies&lt;/strong&gt;: Deep fakes may exhibit lower quality in certain areas, such as blurred edges, pixelation, or artifacts that indicate digital manipulation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Source Verification&lt;/strong&gt;: Verify the source of the content. Is it from a reputable and trustworthy source, or does it come from an unknown or suspicious origin?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h2 id=&quot;markdown-flavours&quot;&gt;Markdown Flavours&lt;/h2&gt;
+&lt;h2 id=&quot;tools-and-technologies-for-detection&quot;&gt;Tools and Technologies for Detection&lt;/h2&gt;
 
-&lt;p&gt;From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to “document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations”.&lt;/p&gt;
+&lt;p&gt;In addition to manual inspection, educators can leverage various tools and technologies to detect deep fakes:&lt;/p&gt;
 
-&lt;figure&gt;
-  &lt;a href=&quot;https://figma.com&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
-  &lt;/a&gt;
-  &lt;figcaption&gt;
-    &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
-    &lt;p&gt;VSCode Editor&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;AI-Based Detection Software&lt;/strong&gt;: There are AI-powered platforms designed specifically to detect deep fakes. These tools analyze patterns, inconsistencies, and anomalies in media content to identify potential manipulations.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Reverse Image and Video Search Engines&lt;/strong&gt;: Use reverse image and video search engines to check if the content has been circulated elsewhere online. This can help uncover instances of deep fake reuse or manipulation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Metadata Analysis&lt;/strong&gt;: Examine the metadata associated with the content, including timestamps, geolocation data, and file properties. Discrepancies or anomalies in metadata can indicate manipulation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Collaborative Verification Networks&lt;/strong&gt;: Engage with collaborative verification networks and fact-checking organizations that specialize in identifying and debunking misinformation, including deep fakes.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h3 id=&quot;github-flavored-markdown-gfm&quot;&gt;GitHub Flavored Markdown (GFM)&lt;/h3&gt;
+&lt;h2 id=&quot;educating-students-about-deep-fakes&quot;&gt;Educating Students About Deep Fakes&lt;/h2&gt;
 
-&lt;p&gt;In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.he user to create their own.&lt;/p&gt;
+&lt;p&gt;Beyond detection, educators play a vital role in educating students about the dangers of deep fakes and promoting media literacy:&lt;/p&gt;
 
-&lt;figure&gt;
-  &lt;a href=&quot;https://figma.com&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
-  &lt;/a&gt;
-  &lt;figcaption&gt;
-    &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
-    &lt;p&gt;VSCode Editor&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Critical Thinking Skills&lt;/strong&gt;: Teach students to approach media content critically and question the authenticity of information they encounter online.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Media Literacy Curriculum&lt;/strong&gt;: Integrate media literacy education into the curriculum, covering topics such as digital citizenship, fact-checking techniques, and the ethics of media manipulation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Hands-On Detection Activities&lt;/strong&gt;: Engage students in hands-on activities where they analyze and detect deep fakes, empowering them to become discerning consumers of digital content.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Open Dialogue&lt;/strong&gt;: Foster open dialogue and discussions about the ethical implications of deep fakes, privacy rights, and responsible digital behavior.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h3 id=&quot;markdown-extra&quot;&gt;Markdown Extra&lt;/h3&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
 
-&lt;p&gt;Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), &lt;a href=&quot;#&quot;&gt;Python&lt;/a&gt; and &lt;a href=&quot;#&quot;&gt;Ruby&lt;/a&gt;. It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal.&lt;/p&gt;
-
-&lt;h3 id=&quot;mdx&quot;&gt;MDX&lt;/h3&gt;
-
-&lt;p&gt;At the same time, a number of ambiguities in the informal specification had attracted attention.These issues spurred the creation of tools such as Babelmark to compare the output of various implementations, and an effort by some developers of Markdown parsers for standardisation. However, Gruber has argued that complete standardization would be a mistake:&lt;/p&gt;
-
-&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;function &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;c1&quot;&gt;// this will work when your window scrolled.&lt;/span&gt;
-  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-  &lt;span class=&quot;nf&quot;&gt;if &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.header&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;addClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;header-scrolled&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.header&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;removeClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;header-scrolled&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Gruber avoided using curly braces in Markdown to unofficially reserve them for implementation-specific extensions. Markdown Extra adds the following features to Markdown:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;markdown markup inside HTML blocks&lt;/li&gt;
-  &lt;li&gt;elements with id/class attribute&lt;/li&gt;
-  &lt;li&gt;fenced code blocks that span multiple lines of code&lt;/li&gt;
-  &lt;li&gt;tables&lt;/li&gt;
-  &lt;li&gt;definition lists&lt;/li&gt;
-  &lt;li&gt;footnotes&lt;/li&gt;
-  &lt;li&gt;abbreviations&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Detecting deep fakes requires a combination of vigilance, critical thinking, and access to tools and resources. Educators play a pivotal role in equipping students with the skills and knowledge needed to navigate the digital landscape safely and responsibly. By staying informed, leveraging detection technologies, and fostering media literacy, teachers can help safeguard against the spread of misinformation through deep fakes and promote a culture of informed decision-making and critical inquiry.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 26 Jul 2021 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/blog/2021-07-26-design-systems-that-scale/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2021-07-26-design-systems-that-scale/</guid>
+        <pubDate>Mon, 05 Feb 2024 05:20:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/2024-02-05-unmasking-deep-fakes-a-guide-for-educators-on-detecting-ai-generated-content/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2024-02-05-unmasking-deep-fakes-a-guide-for-educators-on-detecting-ai-generated-content/</guid>
         
         
-        <category>Design</category>
+        <category>Deepfake</category>
         
-        <category>Product</category>
+        <category>Security</category>
+        
+        <category>Education</category>
+        
+        <category>Educators</category>
         
       </item>
     
       <item>
-        <title>Working With Jekyll</title>
-        <description>&lt;p&gt;Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.&lt;/p&gt;
+        <title>Student Deception: The Deep Impact of Falsified Content in Education</title>
+        <description>&lt;p&gt;The rapid advancement of technology has ushered in a new era of possibilities, but it has also given rise to unforeseen challenges. One such challenge is the exploitation of deep fake technology by students. Deep fakes, which use artificial intelligence to create convincing fake videos or images, have become a tool for deception and mischief in educational settings. In this blog post, we’ll explore how students are exploiting deep fakes and the implications of this behavior.&lt;/p&gt;
 
-&lt;p&gt;Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.&lt;/p&gt;
+&lt;h2 id=&quot;the-rise-of-student-generated-deep-fakes&quot;&gt;The Rise of Student-Generated Deep Fakes&lt;/h2&gt;
 
-&lt;h2 id=&quot;history&quot;&gt;History&lt;/h2&gt;
+&lt;p&gt;With the accessibility of deep fake tools and tutorials online, students are increasingly experimenting with this technology. While some may use it for harmless fun or creative projects, others are exploiting deep fakes for malicious purposes:&lt;/p&gt;
 
-&lt;p&gt;John Gruber created the &lt;a href=&quot;#&quot;&gt;Markdown&lt;/a&gt; language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people “to write using an easy-to-read and easy-to-write plain text format”. Its key design goal is readability. That the language be readable as-is.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Impersonation&lt;/strong&gt;: Students may create deep fakes to impersonate teachers, classmates, or school officials. This can lead to confusion, misunderstandings, and even disciplinary issues.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Cheating&lt;/strong&gt;: Deep fakes can be used to cheat on exams or assignments by creating fake evidence of academic performance or falsifying credentials.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Cyberbullying&lt;/strong&gt;: In some cases, students use deep fakes to create and spread fake content with the intention of bullying or harassing others.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Misinformation&lt;/strong&gt;: Similar to how deep fakes can spread misinformation globally, students may create and share fake educational content or news within their school or peer groups.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;“Markdown is a lightweight markup language with plain-text-formatting syntax”&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;h2 id=&quot;implications-for-education&quot;&gt;Implications for Education&lt;/h2&gt;
 
-&lt;p&gt;To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.&lt;/p&gt;
+&lt;p&gt;The exploitation of deep fakes by students has several implications for education:&lt;/p&gt;
 
-&lt;h2 id=&quot;markdown-flavours&quot;&gt;Markdown Flavours&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Trust and Integrity&lt;/strong&gt;: It erodes trust and integrity within educational institutions, as authenticating the validity of content and identities becomes more challenging.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Academic Misconduct&lt;/strong&gt;: Deep fake exploitation contributes to academic misconduct, undermining the fairness and credibility of assessments and achievements.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Cybersecurity Risks&lt;/strong&gt;: Schools and educators must contend with cybersecurity risks related to the spread of fake content and potential data breaches.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Impact on Learning Environment&lt;/strong&gt;: The presence of deep fake exploitation can create a toxic learning environment, fostering distrust and anxiety among students and educators.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to “document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations”.&lt;/p&gt;
+&lt;h2 id=&quot;addressing-the-issue&quot;&gt;Addressing the Issue&lt;/h2&gt;
 
-&lt;figure&gt;
-  &lt;a href=&quot;https://figma.com&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
-  &lt;/a&gt;
-  &lt;figcaption&gt;
-    &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
-    &lt;p&gt;VSCode Editor&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;p&gt;To address the exploitation of deep fakes by students, educators and institutions can take proactive measures:&lt;/p&gt;
 
-&lt;h3 id=&quot;github-flavored-markdown-gfm&quot;&gt;GitHub Flavored Markdown (GFM)&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Media Literacy Education&lt;/strong&gt;: Integrate media literacy education into the curriculum to teach students about the ethical implications of deep fakes and how to critically evaluate digital content.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Cybersecurity Training&lt;/strong&gt;: Provide cybersecurity training and awareness programs to students, emphasizing the importance of responsible digital behavior and the consequences of misuse.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Detection Tools&lt;/strong&gt;: Implement deep fake detection tools and technologies to identify and mitigate the spread of fake content within educational platforms and networks.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Ethical Guidelines&lt;/strong&gt;: Establish clear ethical guidelines and policies regarding the creation and dissemination of deep fakes, outlining consequences for misuse.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.he user to create their own.&lt;/p&gt;
+&lt;h2 id=&quot;conclusion-empowering-responsible-digital-citizens&quot;&gt;Conclusion: Empowering Responsible Digital Citizens&lt;/h2&gt;
 
-&lt;figure&gt;
-  &lt;a href=&quot;https://figma.com&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
-  &lt;/a&gt;
-  &lt;figcaption&gt;
-    &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
-    &lt;p&gt;VSCode Editor&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;markdown-extra&quot;&gt;Markdown Extra&lt;/h3&gt;
-
-&lt;p&gt;Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), &lt;a href=&quot;#&quot;&gt;Python&lt;/a&gt; and &lt;a href=&quot;#&quot;&gt;Ruby&lt;/a&gt;. It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal.&lt;/p&gt;
-
-&lt;h3 id=&quot;mdx&quot;&gt;MDX&lt;/h3&gt;
-
-&lt;p&gt;At the same time, a number of ambiguities in the informal specification had attracted attention.These issues spurred the creation of tools such as Babelmark to compare the output of various implementations, and an effort by some developers of Markdown parsers for standardisation. However, Gruber has argued that complete standardization would be a mistake:&lt;/p&gt;
-
-&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;function &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;c1&quot;&gt;// this will work when your window scrolled.&lt;/span&gt;
-  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-  &lt;span class=&quot;nf&quot;&gt;if &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.header&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;addClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;header-scrolled&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.header&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;removeClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;header-scrolled&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Gruber avoided using curly braces in Markdown to unofficially reserve them for implementation-specific extensions. Markdown Extra adds the following features to Markdown:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;markdown markup inside HTML blocks&lt;/li&gt;
-  &lt;li&gt;elements with id/class attribute&lt;/li&gt;
-  &lt;li&gt;fenced code blocks that span multiple lines of code&lt;/li&gt;
-  &lt;li&gt;tables&lt;/li&gt;
-  &lt;li&gt;definition lists&lt;/li&gt;
-  &lt;li&gt;footnotes&lt;/li&gt;
-  &lt;li&gt;abbreviations&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Ultimately, addressing the exploitation of deep fakes by students requires a collaborative effort involving educators, parents, and students themselves. By promoting media literacy, fostering a culture of ethical digital conduct, and leveraging technology responsibly, we can empower students to become responsible digital citizens who contribute positively to the educational community and beyond.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 23 Jul 2021 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/blog/2021-07-23-working-with-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2021-07-23-working-with-jekyll/</guid>
+        <pubDate>Tue, 02 Jan 2024 05:20:00 -0500</pubDate>
+        <link>http://localhost:4000/blog/2024-01-02-student-deception-the-deep-impact-of-falsified-content-in-education/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2024-01-02-student-deception-the-deep-impact-of-falsified-content-in-education/</guid>
         
         
-        <category>Product</category>
+        <category>Deepfake</category>
         
-      </item>
-    
-      <item>
-        <title>Targeting keywords to generate SEO traffic</title>
-        <description>&lt;p&gt;Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.&lt;/p&gt;
-
-&lt;p&gt;Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.&lt;/p&gt;
-
-&lt;h2 id=&quot;history&quot;&gt;History&lt;/h2&gt;
-
-&lt;p&gt;John Gruber created the &lt;a href=&quot;#&quot;&gt;Markdown&lt;/a&gt; language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people “to write using an easy-to-read and easy-to-write plain text format”. Its key design goal is readability. That the language be readable as-is.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Markdown is a lightweight markup language with plain-text-formatting syntax”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.&lt;/p&gt;
-
-&lt;h2 id=&quot;markdown-flavours&quot;&gt;Markdown Flavours&lt;/h2&gt;
-
-&lt;p&gt;From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to “document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations”.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;a href=&quot;https://figma.com&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
-  &lt;/a&gt;
-  &lt;figcaption&gt;
-    &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
-    &lt;p&gt;VSCode Editor&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;github-flavored-markdown-gfm&quot;&gt;GitHub Flavored Markdown (GFM)&lt;/h3&gt;
-
-&lt;p&gt;In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.he user to create their own.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;a href=&quot;https://figma.com&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
-  &lt;/a&gt;
-  &lt;figcaption&gt;
-    &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
-    &lt;p&gt;VSCode Editor&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;markdown-extra&quot;&gt;Markdown Extra&lt;/h3&gt;
-
-&lt;p&gt;Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), &lt;a href=&quot;#&quot;&gt;Python&lt;/a&gt; and &lt;a href=&quot;#&quot;&gt;Ruby&lt;/a&gt;. It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal.&lt;/p&gt;
-
-&lt;h3 id=&quot;mdx&quot;&gt;MDX&lt;/h3&gt;
-
-&lt;p&gt;At the same time, a number of ambiguities in the informal specification had attracted attention.These issues spurred the creation of tools such as Babelmark to compare the output of various implementations, and an effort by some developers of Markdown parsers for standardisation. However, Gruber has argued that complete standardization would be a mistake:&lt;/p&gt;
-
-&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;function &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;c1&quot;&gt;// this will work when your window scrolled.&lt;/span&gt;
-  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-  &lt;span class=&quot;nf&quot;&gt;if &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.header&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;addClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;header-scrolled&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.header&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;removeClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;header-scrolled&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Gruber avoided using curly braces in Markdown to unofficially reserve them for implementation-specific extensions. Markdown Extra adds the following features to Markdown:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;markdown markup inside HTML blocks&lt;/li&gt;
-  &lt;li&gt;elements with id/class attribute&lt;/li&gt;
-  &lt;li&gt;fenced code blocks that span multiple lines of code&lt;/li&gt;
-  &lt;li&gt;tables&lt;/li&gt;
-  &lt;li&gt;definition lists&lt;/li&gt;
-  &lt;li&gt;footnotes&lt;/li&gt;
-  &lt;li&gt;abbreviations&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 20 Jul 2021 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/blog/2021-07-20-targeting-keywords-for-traffic/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2021-07-20-targeting-keywords-for-traffic/</guid>
+        <category>Security</category>
         
+        <category>Academic Integrity</category>
         
-        <category>Seo</category>
+        <category>Education</category>
         
-        <category>Web Design</category>
-        
-      </item>
-    
-      <item>
-        <title>The most important analytics metrics for new business</title>
-        <description>&lt;p&gt;Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.&lt;/p&gt;
-
-&lt;p&gt;Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.&lt;/p&gt;
-
-&lt;h2 id=&quot;history&quot;&gt;History&lt;/h2&gt;
-
-&lt;p&gt;John Gruber created the &lt;a href=&quot;#&quot;&gt;Markdown&lt;/a&gt; language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people “to write using an easy-to-read and easy-to-write plain text format”. Its key design goal is readability. That the language be readable as-is.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Markdown is a lightweight markup language with plain-text-formatting syntax”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.&lt;/p&gt;
-
-&lt;h2 id=&quot;markdown-flavours&quot;&gt;Markdown Flavours&lt;/h2&gt;
-
-&lt;p&gt;From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to “document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations”.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;a href=&quot;https://figma.com&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
-  &lt;/a&gt;
-  &lt;figcaption&gt;
-    &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
-    &lt;p&gt;VSCode Editor&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;github-flavored-markdown-gfm&quot;&gt;GitHub Flavored Markdown (GFM)&lt;/h3&gt;
-
-&lt;p&gt;In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.he user to create their own.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;a href=&quot;https://figma.com&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
-  &lt;/a&gt;
-  &lt;figcaption&gt;
-    &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
-    &lt;p&gt;VSCode Editor&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;markdown-extra&quot;&gt;Markdown Extra&lt;/h3&gt;
-
-&lt;p&gt;Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), &lt;a href=&quot;#&quot;&gt;Python&lt;/a&gt; and &lt;a href=&quot;#&quot;&gt;Ruby&lt;/a&gt;. It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal.&lt;/p&gt;
-
-&lt;h3 id=&quot;mdx&quot;&gt;MDX&lt;/h3&gt;
-
-&lt;p&gt;At the same time, a number of ambiguities in the informal specification had attracted attention.These issues spurred the creation of tools such as Babelmark to compare the output of various implementations, and an effort by some developers of Markdown parsers for standardisation. However, Gruber has argued that complete standardization would be a mistake:&lt;/p&gt;
-
-&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;function &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;c1&quot;&gt;// this will work when your window scrolled.&lt;/span&gt;
-  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-  &lt;span class=&quot;nf&quot;&gt;if &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.header&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;addClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;header-scrolled&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.header&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;removeClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;header-scrolled&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Gruber avoided using curly braces in Markdown to unofficially reserve them for implementation-specific extensions. Markdown Extra adds the following features to Markdown:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;markdown markup inside HTML blocks&lt;/li&gt;
-  &lt;li&gt;elements with id/class attribute&lt;/li&gt;
-  &lt;li&gt;fenced code blocks that span multiple lines of code&lt;/li&gt;
-  &lt;li&gt;tables&lt;/li&gt;
-  &lt;li&gt;definition lists&lt;/li&gt;
-  &lt;li&gt;footnotes&lt;/li&gt;
-  &lt;li&gt;abbreviations&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 27 Feb 2021 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/2021-02-27-analytics-metrics-for-business/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2021-02-27-analytics-metrics-for-business/</guid>
-        
-        
-        <category>Development</category>
-        
-        <category>Web Design</category>
-        
-      </item>
-    
-      <item>
-        <title>Reaching your audience with the right content strategy</title>
-        <description>&lt;p&gt;Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.&lt;/p&gt;
-
-&lt;p&gt;Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.&lt;/p&gt;
-
-&lt;h2 id=&quot;history&quot;&gt;History&lt;/h2&gt;
-
-&lt;p&gt;John Gruber created the &lt;a href=&quot;#&quot;&gt;Markdown&lt;/a&gt; language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people “to write using an easy-to-read and easy-to-write plain text format”. Its key design goal is readability. That the language be readable as-is.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Markdown is a lightweight markup language with plain-text-formatting syntax”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.&lt;/p&gt;
-
-&lt;h2 id=&quot;markdown-flavours&quot;&gt;Markdown Flavours&lt;/h2&gt;
-
-&lt;p&gt;From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to “document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations”.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;a href=&quot;https://figma.com&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
-  &lt;/a&gt;
-  &lt;figcaption&gt;
-    &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
-    &lt;p&gt;VSCode Editor&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;github-flavored-markdown-gfm&quot;&gt;GitHub Flavored Markdown (GFM)&lt;/h3&gt;
-
-&lt;p&gt;In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.he user to create their own.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;a href=&quot;https://figma.com&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
-  &lt;/a&gt;
-  &lt;figcaption&gt;
-    &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
-    &lt;p&gt;VSCode Editor&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;markdown-extra&quot;&gt;Markdown Extra&lt;/h3&gt;
-
-&lt;p&gt;Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), &lt;a href=&quot;#&quot;&gt;Python&lt;/a&gt; and &lt;a href=&quot;#&quot;&gt;Ruby&lt;/a&gt;. It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal.&lt;/p&gt;
-
-&lt;h3 id=&quot;mdx&quot;&gt;MDX&lt;/h3&gt;
-
-&lt;p&gt;At the same time, a number of ambiguities in the informal specification had attracted attention.These issues spurred the creation of tools such as Babelmark to compare the output of various implementations, and an effort by some developers of Markdown parsers for standardisation. However, Gruber has argued that complete standardization would be a mistake:&lt;/p&gt;
-
-&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;function &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;c1&quot;&gt;// this will work when your window scrolled.&lt;/span&gt;
-  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-  &lt;span class=&quot;nf&quot;&gt;if &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.header&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;addClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;header-scrolled&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.header&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;removeClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;header-scrolled&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Gruber avoided using curly braces in Markdown to unofficially reserve them for implementation-specific extensions. Markdown Extra adds the following features to Markdown:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;markdown markup inside HTML blocks&lt;/li&gt;
-  &lt;li&gt;elements with id/class attribute&lt;/li&gt;
-  &lt;li&gt;fenced code blocks that span multiple lines of code&lt;/li&gt;
-  &lt;li&gt;tables&lt;/li&gt;
-  &lt;li&gt;definition lists&lt;/li&gt;
-  &lt;li&gt;footnotes&lt;/li&gt;
-  &lt;li&gt;abbreviations&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 10 Sep 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/blog/2020-09-10-reaching-your-audience/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2020-09-10-reaching-your-audience/</guid>
-        
-        
-        <category>Branding</category>
-        
-      </item>
-    
-      <item>
-        <title>Using liquid templates</title>
-        <description>&lt;p&gt;Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.&lt;/p&gt;
-
-&lt;p&gt;Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.&lt;/p&gt;
-
-&lt;h2 id=&quot;history&quot;&gt;History&lt;/h2&gt;
-
-&lt;p&gt;John Gruber created the &lt;a href=&quot;#&quot;&gt;Markdown&lt;/a&gt; language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people “to write using an easy-to-read and easy-to-write plain text format”. Its key design goal is readability. That the language be readable as-is.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Markdown is a lightweight markup language with plain-text-formatting syntax”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.&lt;/p&gt;
-
-&lt;h2 id=&quot;markdown-flavours&quot;&gt;Markdown Flavours&lt;/h2&gt;
-
-&lt;p&gt;From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to “document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations”.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;a href=&quot;https://figma.com&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
-  &lt;/a&gt;
-  &lt;figcaption&gt;
-    &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
-    &lt;p&gt;VSCode Editor&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;github-flavored-markdown-gfm&quot;&gt;GitHub Flavored Markdown (GFM)&lt;/h3&gt;
-
-&lt;p&gt;In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.he user to create their own.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;a href=&quot;https://figma.com&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
-  &lt;/a&gt;
-  &lt;figcaption&gt;
-    &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
-    &lt;p&gt;VSCode Editor&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;markdown-extra&quot;&gt;Markdown Extra&lt;/h3&gt;
-
-&lt;p&gt;Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), &lt;a href=&quot;#&quot;&gt;Python&lt;/a&gt; and &lt;a href=&quot;#&quot;&gt;Ruby&lt;/a&gt;. It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal.&lt;/p&gt;
-
-&lt;h3 id=&quot;mdx&quot;&gt;MDX&lt;/h3&gt;
-
-&lt;p&gt;At the same time, a number of ambiguities in the informal specification had attracted attention.These issues spurred the creation of tools such as Babelmark to compare the output of various implementations, and an effort by some developers of Markdown parsers for standardisation. However, Gruber has argued that complete standardization would be a mistake:&lt;/p&gt;
-
-&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;function &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;c1&quot;&gt;// this will work when your window scrolled.&lt;/span&gt;
-  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-  &lt;span class=&quot;nf&quot;&gt;if &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.header&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;addClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;header-scrolled&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.header&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;removeClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;header-scrolled&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Gruber avoided using curly braces in Markdown to unofficially reserve them for implementation-specific extensions. Markdown Extra adds the following features to Markdown:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;markdown markup inside HTML blocks&lt;/li&gt;
-  &lt;li&gt;elements with id/class attribute&lt;/li&gt;
-  &lt;li&gt;fenced code blocks that span multiple lines of code&lt;/li&gt;
-  &lt;li&gt;tables&lt;/li&gt;
-  &lt;li&gt;definition lists&lt;/li&gt;
-  &lt;li&gt;footnotes&lt;/li&gt;
-  &lt;li&gt;abbreviations&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 09 Aug 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/blog/2020-08-09-using-liquid-templates/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2020-08-09-using-liquid-templates/</guid>
-        
-        
-        <category>Branding</category>
-        
-      </item>
-    
-      <item>
-        <title>Customizing themes with CSS &amp; HTML</title>
-        <description>&lt;p&gt;Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.&lt;/p&gt;
-
-&lt;p&gt;Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.&lt;/p&gt;
-
-&lt;h2 id=&quot;history&quot;&gt;History&lt;/h2&gt;
-
-&lt;p&gt;John Gruber created the &lt;a href=&quot;#&quot;&gt;Markdown&lt;/a&gt; language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people “to write using an easy-to-read and easy-to-write plain text format”. Its key design goal is readability. That the language be readable as-is.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Markdown is a lightweight markup language with plain-text-formatting syntax”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.&lt;/p&gt;
-
-&lt;h2 id=&quot;markdown-flavours&quot;&gt;Markdown Flavours&lt;/h2&gt;
-
-&lt;p&gt;From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to “document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations”.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;a href=&quot;https://figma.com&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
-  &lt;/a&gt;
-  &lt;figcaption&gt;
-    &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
-    &lt;p&gt;VSCode Editor&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;github-flavored-markdown-gfm&quot;&gt;GitHub Flavored Markdown (GFM)&lt;/h3&gt;
-
-&lt;p&gt;In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.he user to create their own.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;a href=&quot;https://figma.com&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
-  &lt;/a&gt;
-  &lt;figcaption&gt;
-    &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
-    &lt;p&gt;VSCode Editor&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;markdown-extra&quot;&gt;Markdown Extra&lt;/h3&gt;
-
-&lt;p&gt;Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), &lt;a href=&quot;#&quot;&gt;Python&lt;/a&gt; and &lt;a href=&quot;#&quot;&gt;Ruby&lt;/a&gt;. It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal.&lt;/p&gt;
-
-&lt;h3 id=&quot;mdx&quot;&gt;MDX&lt;/h3&gt;
-
-&lt;p&gt;At the same time, a number of ambiguities in the informal specification had attracted attention.These issues spurred the creation of tools such as Babelmark to compare the output of various implementations, and an effort by some developers of Markdown parsers for standardisation. However, Gruber has argued that complete standardization would be a mistake:&lt;/p&gt;
-
-&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;function &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;c1&quot;&gt;// this will work when your window scrolled.&lt;/span&gt;
-  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-  &lt;span class=&quot;nf&quot;&gt;if &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.header&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;addClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;header-scrolled&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.header&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;removeClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;header-scrolled&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Gruber avoided using curly braces in Markdown to unofficially reserve them for implementation-specific extensions. Markdown Extra adds the following features to Markdown:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;markdown markup inside HTML blocks&lt;/li&gt;
-  &lt;li&gt;elements with id/class attribute&lt;/li&gt;
-  &lt;li&gt;fenced code blocks that span multiple lines of code&lt;/li&gt;
-  &lt;li&gt;tables&lt;/li&gt;
-  &lt;li&gt;definition lists&lt;/li&gt;
-  &lt;li&gt;footnotes&lt;/li&gt;
-  &lt;li&gt;abbreviations&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Mon, 22 Jun 2020 00:00:00 -0400</pubDate>
-        <link>http://localhost:4000/blog/2020-06-22-css-html/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2020-06-22-css-html/</guid>
-        
-        
-        <category>Branding</category>
-        
-      </item>
-    
-      <item>
-        <title>Creative ideas to improve your writing</title>
-        <description>&lt;p&gt;Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.&lt;/p&gt;
-
-&lt;p&gt;Since the initial description of Markdown contained ambiguities and unanswered questions, the implementations that appeared over the years have subtle differences and many come with syntax extensions.&lt;/p&gt;
-
-&lt;h2 id=&quot;history&quot;&gt;History&lt;/h2&gt;
-
-&lt;p&gt;John Gruber created the &lt;a href=&quot;#&quot;&gt;Markdown&lt;/a&gt; language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people “to write using an easy-to-read and easy-to-write plain text format”. Its key design goal is readability. That the language be readable as-is.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Markdown is a lightweight markup language with plain-text-formatting syntax”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;To this end, its main inspiration is the existing conventions for marking up plain text in email, though it also draws from earlier markup languages, notably setext, Textile, and reStructuredText.&lt;/p&gt;
-
-&lt;h2 id=&quot;markdown-flavours&quot;&gt;Markdown Flavours&lt;/h2&gt;
-
-&lt;p&gt;From 2012, a group of people including Jeff Atwood and John MacFarlane launched what Atwood characterized as a standardization effort. A community website now aims to “document various tools and resources available to document authors and developers, as well as implementors of the various markdown implementations”.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;a href=&quot;https://figma.com&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-1.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
-  &lt;/a&gt;
-  &lt;figcaption&gt;
-    &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
-    &lt;p&gt;VSCode Editor&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;github-flavored-markdown-gfm&quot;&gt;GitHub Flavored Markdown (GFM)&lt;/h3&gt;
-
-&lt;p&gt;In 2017, GitHub released a formal specification of their GitHub Flavored Markdown (GFM) that is based on CommonMark. It follows the CommonMark specification exactly except for tables, strikethrough, autolinks and task lists, which the GitHub spec has added as extensions. GitHub also changed the parser used on their sites accordingly, which required that some documents be changed. For instance, GFM now requires that the hash symbol that creates a heading be separated from the heading text by a space character.he user to create their own.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;a href=&quot;https://figma.com&quot; target=&quot;_blank&quot;&gt;
-    &lt;img src=&quot;/assets/images/gen/content/content-2.webp&quot; alt=&quot;Photo of designing a website in Figma&quot; /&gt;
-  &lt;/a&gt;
-  &lt;figcaption&gt;
-    &lt;h4&gt;There are many popular text editors for Markdown&lt;/h4&gt;
-    &lt;p&gt;VSCode Editor&lt;/p&gt;
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&quot;markdown-extra&quot;&gt;Markdown Extra&lt;/h3&gt;
-
-&lt;p&gt;Markdown Extra is a lightweight markup language based on Markdown implemented in PHP (originally), &lt;a href=&quot;#&quot;&gt;Python&lt;/a&gt; and &lt;a href=&quot;#&quot;&gt;Ruby&lt;/a&gt;. It adds features not available with plain Markdown syntax. Markdown Extra is supported in some content management systems such as, for example, Drupal.&lt;/p&gt;
-
-&lt;h3 id=&quot;mdx&quot;&gt;MDX&lt;/h3&gt;
-
-&lt;p&gt;At the same time, a number of ambiguities in the informal specification had attracted attention.These issues spurred the creation of tools such as Babelmark to compare the output of various implementations, and an effort by some developers of Markdown parsers for standardisation. However, Gruber has argued that complete standardization would be a mistake:&lt;/p&gt;
-
-&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;function &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;c1&quot;&gt;// this will work when your window scrolled.&lt;/span&gt;
-  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
-  &lt;span class=&quot;nf&quot;&gt;if &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.header&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;addClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;header-scrolled&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nf&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;.header&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;removeClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;header-scrolled&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;Gruber avoided using curly braces in Markdown to unofficially reserve them for implementation-specific extensions. Markdown Extra adds the following features to Markdown:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;markdown markup inside HTML blocks&lt;/li&gt;
-  &lt;li&gt;elements with id/class attribute&lt;/li&gt;
-  &lt;li&gt;fenced code blocks that span multiple lines of code&lt;/li&gt;
-  &lt;li&gt;tables&lt;/li&gt;
-  &lt;li&gt;definition lists&lt;/li&gt;
-  &lt;li&gt;footnotes&lt;/li&gt;
-  &lt;li&gt;abbreviations&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 14 Feb 2020 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/blog/2020-02-14-creative-ideas-for-writing/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2020-02-14-creative-ideas-for-writing/</guid>
-        
-        
-        <category>Branding</category>
+        <category>Educators</category>
         
       </item>
     
