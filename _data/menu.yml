@@ -7,9 +7,9 @@ main:
     weight: 1
     child:
       - name: "Software"
-        url: /services/web-development/
+        url: /services/software/
       - name: "Consulting"
-        url: /services/user-experience/
+        url: /services/consulting/
   - name: Blog
     url: /blog/
     weight: 4
@@ -17,7 +17,7 @@ main:
     url: /about/
     weight: 5
   - name: Get Started
-    url: https://www.zerostatic.io/theme/jekyll-advance/
+    url: /contact/
     weight: 6
 footer_primary:
   - name: Home
@@ -44,7 +44,7 @@ footer_tertiary:
     url: /terms-and-conditions/
     weight: 2
   - name: Get Started
-    url: https://www.zerostatic.io/theme/jekyll-advance/
+    url: /contact/
     weight: 3
 bottom:
   - name: Privacy Policy

@@ -1,7 +1,7 @@
 ---
-title: "Software Engineering"
+title: "Software"
 description: "Building complex web applications and system software."
-date: 2019-10-03
+date: 2022-01-03
 weight: 6
 header_transparent: true
 fa_icon: "fab fa-codepen"
@@ -11,7 +11,7 @@ image: "/assets/images/gen/services/service-6.webp"
 
 hero:
   enabled: true
-  heading: "Software Engineering"
+  heading: "Software"
   sub_heading: "Building complex web applications and system software."
   text_color: "#ffffff"
   background_color: ""
