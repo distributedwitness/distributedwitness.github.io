@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-date: 2021-24-01
+date: 2024-01-01
 layout: basic
 permalink: "/privacy-policy/"
 ---
@@ -16,7 +16,7 @@ This site is statically generated and served as HTML. Fundamentally this means t
 
 ### Analytics
 
-This site uses Plausible Analytics, a privacy focused GDPR compliant analytics alternative to Google Analytics. By using Plausible Analytics, all the site measurement is carried out absolutely anonymously. Cookies are not set and no personal data is collected. All data is in aggregate only. [Learn More](https://plausible.io/privacy-focused-web-analytics)
+This site utilizes both Plausible Analytics and Google Analytics to enhance site functionality and understand user interaction. Plausible Analytics is a privacy-focused, GDPR-compliant alternative that measures site activity anonymously without setting cookies or collecting personal data. All data is aggregated only. In addition to Plausible, we use Google Analytics to gather insights on user engagement and traffic patterns. Google Analytics may use cookies and collect data that helps in optimizing the website.
 
 ### Advertising & Marketing 
 
@@ -111,4 +111,4 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, You can contact us: [support@example.com](mailto:support@example.com)
+If you have any questions about this Privacy Policy, You can contact us: [support@distributedwitness.com](mailto:support@distributedwitness.com)
