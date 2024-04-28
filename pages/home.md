@@ -8,8 +8,8 @@ meta_title: Distributed Witness
 
 hero:
   enabled: true
-  heading: "Know People and Data are Authentic"
-  sub_heading: "Make Better Decisions Knowing What is Genuine."
+  heading: "Shielding Reality from Digital Distortion"
+  sub_heading: "Know People and Data are Authentic. Make Better Decisions Knowing What is Genuine."
   text_color: "#FFFFFF"
   background_color: "#1d2830"
   background_gradient: true
@@ -43,7 +43,7 @@ intro:
   enabled: true
   align: left
   image: "/assets/images/gen/content/biometrics-woman-fotor-1240x698.png"
-  heading: "Distributed Witness disabuses deception in an online world."
+  heading: "Defining the Future of Digital Trust"
   sub_heading: "Experience the forefront of security with Distributed Witness, your dedicated partner in safeguarding digital media integrity. Specializing in advanced deepfake detection software, we empower organizations to defend against digital impersonation and media manipulation."
   features:
     enabled: false
