@@ -1,12 +1,12 @@
 ---
 title: "Consulting"
 description: "Expert consulting to integrate deepfake detection into your systems and processes"
-date: 2018-11-28T15:15:34+10:00
+date: 2024-01-01T15:15:34+10:00
 weight: 2
 header_transparent: true
 icon: "assets/images/icons/consulting.svg"
-thumbnail: "/assets/images/gen/services/service-2-thumbnail.webp"
-image: "/assets/images/gen/services/service-2.webp"
+thumbnail: "/assets/images/gen/services/consulting_thumbnail_1240x698.png"
+image: "/assets/images/gen/services/consulting_1240x827.png"
 
 hero:
   enabled: true
@@ -16,56 +16,43 @@ hero:
   background_color: ""
   background_gradient: true
   background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-2.webp"
+  background_image: "/assets/images/gen/services/consulting_1920x1080.png"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
   buttons:
     enabled: false
     list:
-      - text: "Buy Now"
-        url: "https://www.zerostatic.io/theme/jekyll-advance/"
+      - text: "Get Started"
+        url: "/getstarted/"
         external: true
         fa_icon: false
         size: large
         outline: false
         style: "primary"
 ---
+# Consulting at Distributed Witness
 
-# Creating Modern Websites
+In the complex and ever-evolving realm of digital content, the distinction between real and counterfeit can blur, leaving organizations vulnerable to the chaos of misinformation. Distributed Witness stands at the frontier of this battleground, armed with the profound expertise and revolutionary technology to fortify your digital integrity.
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+## Strategic Solutions Tailored to Your Unique Challenges
+Our consultants are not merely problem-solvers; they are architects of stability in a volatile digital environment. By deeply understanding your operational landscape and strategic objectives, Distributed Witness crafts bespoke solutions that integrate seamlessly into your existing systems, enhancing resilience and enabling dynamic response to emerging threats.
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+## Proactive Defense with Advanced Technology
+We harness the power of artificial intelligence and blockchain technology not just as tools, but as foundational elements that redefine security protocols. Our proactive methodologies are designed to keep your defenses several steps ahead of malicious digital actors, ensuring your operations are safeguarded against the most sophisticated threats.
 
-## What is Web Design?
+# Consulting for Educational Institutions and Professionals
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+## Cultivating Secure Educational Ecosystems
+The academic sphere presents unique challenges in maintaining the integrity of digital assets—from scholarly publications to remote teaching tools. Distributed Witness provides customized consulting services engineered to uphold the highest standards of academic integrity and to fortify educational practices against digital falsification.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
+## Empowering Educators with Robust Digital Tools
+We understand the critical role educators play in shaping the digital frontier. Our solutions empower educational professionals to expand their digital influence securely, ensuring their contributions to the academic community remain impactful and uncorrupted.
 
-## Front-end Development
+## Partnering for Enhanced Learning and Research
+Distributed Witness’s approach to consulting in the education sector is highly collaborative. We engage directly with educators and administrators to integrate our cutting-edge technologies in ways that are both intuitive and minimal in their disruption to the educational process.
 
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
+## Initiate Your Path to Secured Digital Operations 
+Are you ready to advance your organization’s capacity for handling digital content with utmost integrity? Reach out to Distributed Witness today. Together, we will explore sophisticated solutions tailored to your specific needs and forge a partnership that transforms digital risk into digital triumph. [Schedule a Consultation](/getstarted/)
 
-> As a UX designer, you should consider the Why, What and How of product use.
-
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
-
-## Design Systems
-
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
-
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
-
-## Process
-
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
-
-- User experience research
-- Visual design and illustration
-- Programming and coding
-
-![Design In Figma](/assets/images/gen/content/content-2.webp)
-
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+At Distributed Witness, consulting is more than a service—it is a core pillar of our mission to establish unshakeable digital trust across all sectors. Partner with us, and let us navigate the complexities of digital authenticity together.

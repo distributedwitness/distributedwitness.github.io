@@ -6,8 +6,8 @@ weight: 1
 header_transparent: true
 fa_icon: false
 icon: "assets/images/icons/human.svg"
-thumbnail: "/assets/images/gen/services/service-1-thumbnail.webp"
-image: "/assets/images/gen/services/service-1.webp"
+thumbnail: "/assets/images/gen/services/networks_thumbnail_1240x698.png"
+image: "/assets/images/gen/services/networks_1240x827.png"
 
 hero:
   enabled: true
@@ -16,16 +16,16 @@ hero:
   text_color: "#FFFFFF"
   background_color: ""
   background_gradient: true
-  background_image_blend_mode: false # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-1-large.webp"
+  background_image_blend_mode: overlay # "overlay", "multiply", "screen"
+  background_image: "/assets/images/gen/services/networks_1920x1080.png"
   fullscreen_mobile: false
   fullscreen_desktop: false
   height: 660px
   buttons:
     enabled: false
     list:
-      - text: "Buy Now"
-        url: "https://www.zerostatic.io/theme/jekyll-advance/"
+      - text: "Get Started"
+        url: "/getstarted/"
         external: true
         fa_icon: false
         size: large
@@ -33,40 +33,16 @@ hero:
         style: "primary"
 ---
 
-# Creating Modern Websites
+# Distributed Witness Software Solutions
 
-Web design encompasses many different skills and disciplines in the production and maintenance of websites.
+In an era where digital deception is not just prevalent but also perpetually evolving, the need for robust and intelligent defenses has never been more critical. At Distributed Witness, we develop software not just to counteract threats but to define the standard for digital authenticity and security. Our suite of software solutions is the bedrock upon which institutions can safeguard the veracity of their digital content.
 
-Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all. Web design partially overlaps web engineering in the broader scope of web development.
+## DeepAuthenticator
+Harnessing the power of advanced machine learning, DeepAuthenticator scrutinizes media across multiple dimensions to detect anomalies indicative of manipulation. Designed for environments where trust is paramount, this tool ensures that what you see and hear is unequivocally real.
 
-## What is Web Design?
+## A Commitment to Excellence
+Our software products are built on a foundation of excellence, driven by a commitment to innovation and the pursuit of truth. In partnering with Distributed Witness, you are not just adopting technology; you are spearheading the movement towards a digitally honest world.
 
-User experience is about how a user interacts with, and experiences, a particular product, system or service. As a UX designer, you should consider the Why, What and How of product use.
+Explore our software solutions and experience how Distributed Witness can transform the security landscape of your organization. Let us help you maintain the sanctity of your digital content.
 
-{% include framework/shortcodes/figure.html src="/assets/images/gen/content/content-1.webp" title="Steve Francia" caption="Designing in Figma" alt="Photo of designing a website in Figma" link="https://figma.com" target="_blank" %}
-
-## Front-end Development
-
-The What addresses the things people can do with a product—its functionality. Finally, the How relates to the design of functionality in an accessible and aesthetically pleasant way. UX designers start with the Why before determining the What and then, finally, the How in order to create products that users can form meaningful experiences with. In software designs, you will need to ensure the product’s “substance” comes through an existing device and offers a seamless, fluid experience.
-
-> As a UX designer, you should consider the Why, What and How of product use.
-
-Web designers are expected to have an awareness of usability and if their role involves creating markup then they are also expected to be up to date with web accessibility guidelines.
-
-## Design Systems
-
-A Design System is a set of interconnected patterns and shared practices coherently organized to aid in digital product design and development of products such as apps or websites.
-
-{% include framework/shortcodes/youtube.html id='2M6dJ2Uynhg' %}
-
-## Process
-
-There are two primary jobs involved in creating a website: the web designer and web developer, who often work closely together on a website. The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page.
-
-- User experience research
-- Visual design and illustration
-- Programming and coding
-
-![Design In Figma](/assets/images/gen/content/content-2.webp)
-
-Web designers will also have a working knowledge of markup languages such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.
+At Distributed Witness, we don’t just create software; we forge the future of digital trust. Join us in redefining what it means to secure digital authenticity in an increasingly interconnected world.

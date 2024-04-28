@@ -2,7 +2,7 @@
 layout: home
 permalink: "/"
 title: "Distributed Witness"
-description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+description: "Distributed Witness offers advanced deepfake detection software to protect against digital impersonation and media manipulation. Specializing in AI-driven solutions for businesses and organizations, we ensure digital media integrity. Discover our deepfake detection services, consulting, and integration options."
 header_transparent: true
 meta_title: Distributed Witness Homepage
 

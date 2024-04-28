@@ -1,18 +1,18 @@
 ---
 layout: list
 title: Services
-description: "A selection of our digital services"
+description: "Explore Distributed Witness’s services: Advanced deepfake detection software and expert consulting to safeguard your digital content and enhance security"
 permalink: "/services/"
 header_transparent: true
 
 hero:
   enabled: true
   heading: "Services"
-  sub_heading: "We offer a complete range of digital services."
+  sub_heading: "Protecting Authenticity, Enhancing Security: Our Comprehensive Services"
   text_color: "#FFFFFF"
   background_color: false
   background_gradient: true
-  background_image: "/assets/images/gen/home/home-8-large.webp"
+  background_image: "/assets/images/gen/home/datacentre-1920x1080.png"
   background_image_blend_mode: overlay # "overlay", "multiply", "screen"
   fullscreen_mobile: false
   fullscreen_desktop: false
@@ -54,11 +54,11 @@ outro:
   align: left
   image: false
   heading: "Ready to get started?"
-  sub_heading: "Contact us today for a free quote!"
+  sub_heading: "Build your customized digital defense with us"
   buttons:
     enabled: true
     list:
-      - text: "Get A Quote"
+      - text: "Contact Us"
         url: "/contact"
         external: false
         fa_icon: false
