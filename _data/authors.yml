@@ -4,12 +4,12 @@ sage_kirk:
   job: "Co-founder & CEO"
   image: "assets/images/authors/sage-kirk.jpg"
   bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in."
-mike_vance:
-  title: "Mike Vance"
-  name: "Mike Vance"
-  job: "Software Engineer"
-  image: "assets/images/authors/mike-vance.jpg"
-  bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in."
+genevieve_beauchamp:
+  title: "Genevieve Beauchamp"
+  name: "Genevieve Beauchamp"
+  job: "Marketing Manager"
+  image: "assets/images/authors/genevieve-beauchamp.jpg"
+  bio: "Genevieve Beauchamp is a seasoned marketing manager with over a decade of experience in crafting compelling campaigns and driving brand growth. Specializing in digital marketing strategies, she has a proven track record of enhancing online presence and engaging diverse audiences across multiple platforms. Genevieve's expertise in analytics and consumer behavior has consistently translated into measurable success for her clients. With a keen eye for market trends and a passion for innovation, she is dedicated to shaping effective and sustainable marketing solutions."
 marc_paulo:
   title: "Mark Paulo"
   name: "Mark Paulo"

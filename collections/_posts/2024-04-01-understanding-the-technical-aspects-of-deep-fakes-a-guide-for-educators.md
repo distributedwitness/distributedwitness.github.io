@@ -2,7 +2,7 @@
 layout: post
 title: "Understanding the Technical Aspects of Deep Fakes: A Guide for Educators"
 date: 2024-04-01T05:22:42Z
-authors: ["Sage Kirk", "Mike Vance"]
+authors: ["Genevieve Beauchamp"]
 categories: ["Deepfake", "Security", "Cybersecurity", "Education", "Educators","Technical"]
 description: "Unlock the secrets of deep fake technology! Dive into AI-driven synthesis, facial recognition, audio manipulation, and detection strategies crucial for educators."
 thumbnail: "/assets/images/gen/blog/professor_neuralnetworks_thumbnail_1240x698.png"

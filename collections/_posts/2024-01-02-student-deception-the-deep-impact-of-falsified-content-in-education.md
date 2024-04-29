@@ -2,6 +2,7 @@
 layout: post
 title: "Student Deception: The Deep Impact of Falsified Content in Education"
 date: 2024-01-02T10:20:00Z
+authors: ["Genevieve Beauchamp"]
 categories: ["Deepfake", "Security", "Academic Integrity", "Education", "Educators"]
 description: "Delve into the dark side of technology: discover how students exploit deep fakes for impersonation, cheating, cyberbullying, and misinformation, impacting trust and integrity in education."
 thumbnail: "/assets/images/gen/blog/students_thumbnail_1240x698.png"

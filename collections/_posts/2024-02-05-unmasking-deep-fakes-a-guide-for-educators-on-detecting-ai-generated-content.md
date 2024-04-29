@@ -2,6 +2,7 @@
 layout: post
 title: "Unmasking Deep Fakes: A Guide for Educators on Detecting AI-Generated Content"
 date: 2024-02-05T10:20:00Z
+authors: ["Genevieve Beauchamp"]
 categories: ["Deepfake", "Security", "Education", "Educators"]
 description: "Discover how educators uncover AI-generated deep fakes: understand their nature, use key indicators, leverage tools, and promote media literacy among students!"
 thumbnail: "/assets/images/gen/blog/lecturer_highered_thumbnail_1240x698.png"

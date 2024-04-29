@@ -2,6 +2,7 @@
 layout: post
 title: "Navigating the Impact of Deep Fakes on Education: Challenges and Opportunities"
 date: 2024-03-04T10:20:00Z
+authors: ["Genevieve Beauchamp"]
 categories: ["Deepfake", "Security", "Cybersecurity", "Education", "Educators"]
 description: "Uncover the truth behind deep fakes! Educators learn detection methods, including AI tools and critical thinking skills, to combat misinformation effectively."
 thumbnail: "/assets/images/gen/blog/studentswalking_thumbnail_1240x698.png"
