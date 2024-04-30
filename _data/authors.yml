@@ -1,36 +1,6 @@
-sage_kirk:
-  title: "Sage Kirk"
-  name: "Sage Kirk"
-  job: "Co-founder & CEO"
-  image: "assets/images/authors/sage-kirk.jpg"
-  bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in."
 genevieve_beauchamp:
   title: "Genevieve Beauchamp"
   name: "Genevieve Beauchamp"
   job: "Marketing Manager"
   image: "assets/images/authors/genevieve-beauchamp.jpg"
   bio: "Genevieve Beauchamp is a seasoned marketing manager with over a decade of experience in crafting compelling campaigns and driving brand growth. Specializing in digital marketing strategies, she has a proven track record of enhancing online presence and engaging diverse audiences across multiple platforms. Genevieve's expertise in analytics and consumer behavior has consistently translated into measurable success for her clients. With a keen eye for market trends and a passion for innovation, she is dedicated to shaping effective and sustainable marketing solutions."
-marc_paulo:
-  title: "Mark Paulo"
-  name: "Mark Paulo"
-  job: "Software Engineer"
-  image: "assets/images/authors/marc-paulo.jpg"
-  bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in."
-jodi_harmon:
-  title: "Jodi Harmon"
-  name: "Jodi Harmon"
-  job: "Marketing Manager"
-  image: "assets/images/authors/jodi-harmon.jpg"
-  bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in."
-alec_mendez:
-  title: "Alec Mendez"
-  name: "Alec Mendez"
-  job: "Graphic Designer"
-  image: "assets/images/authors/alec-mendez.png"
-  bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in."
-shyam_wolf:
-  title: "Shyam Wolf"
-  name: "Shyam Wolf"
-  job: "Product Manager"
-  image: "assets/images/authors/shyam-wolf.png"
-  bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in."
