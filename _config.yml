@@ -41,16 +41,6 @@ defaults:
       layout: service
   - scope:
       path: ""
-      type: projects
-    values:
-      layout: project
-  - scope:
-      path: ""
-      type: team
-    values:
-      layout: team
-  - scope:
-      path: ""
       type: posts
     values:
       layout: post
